@@ -1,4 +1,4 @@
-# Python Playground 🐍
+# Python Playground 
 
 A personal space to experiment, learn, and document my Python journey.
 
