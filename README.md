@@ -31,6 +31,9 @@ Shows how nested loops and `range()` behave.
 ### `all_numbers_return_vs_print.py`
 Compares a correct and incorrect version of a function that returns a sequence of numbers.
 
+### `intro_loops.py`
+Introduces the while loop with a simple example of iterating through a list of coding languages.
+
 ---
 
 ## 🚧 More coming soon!
